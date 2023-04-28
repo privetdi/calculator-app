@@ -1,10 +1,10 @@
 import React from "react";
-import CalLeft from "./calculator_left";
+import Layout from "./layout";
 
 function BlockButton(){
     return(
         <div>
-            <CalLeft />
+            <Layout />
         </div>
     )
 }

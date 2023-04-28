@@ -3,7 +3,7 @@ import '../puzzle.scss';
 
 function Operator() {
   return (
-    <div>
+    <div className="operators">
       <button className="btn operator">/</button>
       <button className="btn operator">x</button>
       <button className="btn operator">-</button>

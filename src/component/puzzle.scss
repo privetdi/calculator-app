@@ -6,14 +6,15 @@
   margin: 12px 0;
   padding: 4px;
 
-  .numbers {
-    display: flex;
-    flex-direction: row-reverse;
-    flex-wrap: wrap-reverse;
-    justify-content: flex-start;
-  }
-}
 
+}
+.numbers {
+  width: 240px;
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap-reverse;
+  justify-content: flex-start;
+}
 .btn {
   border: 1px solid #e2e3e5;
   border-radius: 6px;
